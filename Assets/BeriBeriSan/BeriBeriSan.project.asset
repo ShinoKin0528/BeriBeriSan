@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f183272568e6f94382e3b59c0de76cd, type: 3}
+  m_Name: BeriBeriSan.project
+  m_EditorClassIdentifier: 
+  excelList: []
+  chapterDataList:
+  - chapterName: Boot
+    excelList:
+    - {fileID: 102900000, guid: 3c39971c7c38f4b039885d1b3683c3ef, type: 3}
+    excelDir: {fileID: 0}
+  checkWaitType: 0
+  checkWhiteSpaceEndOfCell: 1
+  checkTextCount: 1
+  scenarios: {fileID: 11400000, guid: c2fa717f5834a43db89d79d0a0339355, type: 2}
+  autoImportType: 0
+  convertPath: 
+  convertVersion: 0
+  isAutoUpdateVersionAfterConvert: 0
+  isAutoConvertOnImport: 0
+  customInportSpriteFolders:
+  - {fileID: 102900000, guid: 6b4a4e20549a642fd9be17caacbd88c2, type: 3}
+  - {fileID: 102900000, guid: af692f823ae094c5bae3f35311c6101c, type: 3}
+  - {fileID: 102900000, guid: ed67089bcd38b4ca3bb0698ec97e5efe, type: 3}
+  - {fileID: 102900000, guid: 8b8c0b41b26d9474f82fb9f827ad3fc8, type: 3}
+  - {fileID: 102900000, guid: 7ba41a9ae57aa48719da79e3c9467915, type: 3}
+  customInportAudioFolders:
+  - {fileID: 102900000, guid: bfdf9bd7091654c828a1a8bcb491b674, type: 3}
+  - {fileID: 102900000, guid: 62645ee552f4141339da582788aadf25, type: 3}
+  - {fileID: 102900000, guid: 7de62b5a8f03a4cfeb0ff5f4108adad7, type: 3}
+  - {fileID: 102900000, guid: 5da6669d66bfd4e14a7862c18c1a0aa1, type: 3}
+  customInportMovieFolders: []
+  quickImport: 0
+  parseFormula: 0
+  parseNumreic: 0
+  enableCommentOutOnImport: 1
